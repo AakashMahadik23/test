@@ -1,5 +1,0 @@
- {{#user}
-Name: Aakash Mahadik
-Skills: HTML,CSS,JAVASCRIPT,REACT JS,NODE JS,EXPRESS JS,NEXT JS,PYTHON,DJANGO,SQL,MONGODB,GIT.
-Email: aakashmahadik02@gmail.com
-{{/user}}
